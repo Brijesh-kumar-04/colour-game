@@ -1,5 +1,5 @@
-# Simon-Game
+# simon game
 
 Just a learning part, if love to play games...
-Click here.... https://shagunmishra.github.io/Simon-Game/
+https://brijesh-kumar-04.github.io/colour-game/
 Test your memory, till what level you are able to memorize the pattern...
